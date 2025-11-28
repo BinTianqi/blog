@@ -1,0 +1,24 @@
+baseURL: "https://bintianqi.com/blog"
+title: "Tanky's blog"
+languageCode: "zh-CN"
+
+disableAliases: true
+disableKinds: ["rss", "sitemap", "robotstxt", "404"]
+
+markup:
+  highlight:
+    style: base16-snazzy
+
+menus:
+  main:
+    - name: "Home"
+      pageRef: "/"
+      weight: 10
+    - name: "Posts"
+      pageRef: "/posts"
+      weight: 20
+    - name: "Tags"
+      pageRef: "/tags"
+      weight: 40
+
+publishDir: "build"

@@ -1,0 +1,74 @@
+main {
+    max-width: 900px;
+    > .date, > .tags {
+        display: flex;
+        align-items: center;
+        margin: 4px 0;
+        > svg {
+            margin-right: 6px;
+            fill: var(--md-sys-color-on-surface-variant);
+        }
+    }
+    > .tags {
+        span {
+            background-color: var(--md-sys-color-surface-variant);
+            padding: 4px;
+            border-radius: 4px;
+        }
+    }
+    > blockquote {
+        margin: 0;
+        padding-left: 0.8em;
+        color: #9A98A1;
+        border-left: 0.2em solid #3D444D;
+    }
+    > .highlight {
+        position: relative;
+        > pre {
+            padding: 10px 50px 10px 10px;
+            min-height: 26px;
+            overflow-x: auto;
+            border-radius: 0.5em;
+            white-space: pre;
+            code {
+                display: inline-block;
+            }
+            button.copy {
+                position: absolute;
+                right: 5px;
+                top: 5px;
+                background-color: var(--md-sys-color-secondary-container);
+                border: 0;
+                border-radius: 50%;
+                width: 36px;
+                height: 36px;
+                padding: 6px;
+                > svg {
+                    fill: var(--md-sys-color-on-secondary-container);
+                }
+                &:hover {
+                    cursor: pointer;
+                    background-color: color-mix(in srgb, var(--md-sys-color-on-secondary-container) 8%, var(--md-sys-color-secondary-container));
+                    fill: color-mix(in srgb, var(--md-sys-color-on-secondary-container) 8%, var(--md-sys-color-on-secondary-container));
+                }
+            }
+        }
+    }
+}
+
+
+h2, h3, h4 {
+    > code {
+        background-color: var(--md-sys-color-surface-variant);
+        padding: 3px;
+        border-radius: 2px;
+    }
+}
+p {
+    > code {
+        background-color: var(--md-sys-color-surface-variant);
+        padding: 3px;
+        margin: 0 1px;
+        border-radius: 2px;
+    }
+}

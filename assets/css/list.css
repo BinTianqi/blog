@@ -1,0 +1,15 @@
+main {
+    max-width: 600px;
+    div.post {
+        background-color: var(--md-sys-color-surface-container);
+        padding: 10px;
+        border-radius: 12px;
+        margin: 10px 0;
+        h2 {
+            margin: 0;
+        }
+        p {
+            margin: 10px 0 4px 0;
+        }
+    }
+}
