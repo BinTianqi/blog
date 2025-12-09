@@ -47,6 +47,8 @@ if (Dhizuku.isPermissionGranted()) {
 
 ### Binder wrapper
 
+适用于`DevicePolicyManager`, `PackageManager`等系统服务
+
 #### 创建IDevicePolicyManager接口
 
 创建文件`YOUR_PROJECT/app/src/main/java/android/app/admin/IDevicePolicyManager.java`
@@ -185,7 +187,7 @@ class MyDhizukuUserService: IDhizukuUserService.Stub() {
 class MyDhizukuServiceConnection: ServiceConnection {
     override fun onServiceConnected(name: ComponentName?, binder: IBinder?) {
         val service = IDhizukuUserService.Stub.asInterface(binder)
-        service.testFunction() // 服务绑定后，调用testFunction()
+        service.testFunction()
     }
 
     override fun onServiceDisconnected(name: ComponentName?) {
@@ -201,3 +203,13 @@ Dhizuku.bindUserService(
     DhizukuUserServiceArgs(ComponentName(context, MyDhizukuUserService::class.java)), MyDhizukuServiceConnection()
 )
 ```
+
+### Delegated scopes
+
+一旦获取Delegated scope权限，无需在调用API时和Dhizuku进行IPC，稳定，但功能有限，只支持DevicePolicyManager的部分API。
+
+```kotlin
+Dhizuku.setDelegatedScopes(arrayOf(DevicePolicyManager.DELEGATION_PACKAGE_ACCESS))
+```
+
+DevicePolicyManager类中定义了所有Delegated scopes，以`DevicePolicyManager.DELEGATION_`开头，详情请见Android developers上的API参考。

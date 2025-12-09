@@ -1,0 +1,17 @@
+name: Build
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+      - run: hugo
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: build
