@@ -3,7 +3,7 @@ title: "Tanky's blog"
 languageCode: "zh-CN"
 
 disableAliases: true
-disableKinds: ["rss", "sitemap", "robotstxt", "404"]
+disableKinds: ["rss", "robotstxt", "404"]
 
 markup:
   highlight:

@@ -10,8 +10,10 @@ main {
         }
     }
     > .tags {
-        span {
-            background-color: var(--md-sys-color-surface-variant);
+        a {
+            background-color: var(--md-sys-color-primary-container);
+            color: var(--md-sys-color-on-primary-container);
+            text-decoration: none;
             padding: 4px;
             border-radius: 4px;
         }
