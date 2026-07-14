@@ -3,4 +3,4 @@
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ template "_internal/opengraph.html" .}}
 {{ partial "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
+{{ partial "head/js.html" . }}

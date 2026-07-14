@@ -56,6 +56,12 @@ main {
             }
         }
     }
+    img {
+        display: block;
+        max-height: 60vh;
+        max-width: 100%;
+        margin: 0 auto;
+    }
 }
 
 

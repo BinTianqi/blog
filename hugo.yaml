@@ -1,13 +1,13 @@
 baseURL: "https://bintianqi.com/blog"
 title: "Tanky's blog"
-languageCode: "zh-CN"
+defaultContentLanguage: "zh"
 
 disableAliases: true
 disableKinds: ["rss", "robotstxt", "404"]
 
 markup:
   highlight:
-    style: base16-snazzy
+    noClasses: false
 
 menus:
   main:
