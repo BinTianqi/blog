@@ -43,8 +43,9 @@ main {
 }
 
 footer {
-    border-top: 1px solid #222;
-    margin-top: 1rem;
+    border-top: 1px solid var(--md-sys-color-outline);
+    margin: 40px 20px 0 20px;
+    padding: 0 10px;
 }
 
 a {
