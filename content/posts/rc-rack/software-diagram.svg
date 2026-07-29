@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="500"
+   viewBox="0 0 600 500"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#ffffff;stroke-width:2"
+     id="rect2"
+     width="633.03522"
+     height="524.78381"
+     x="-11.766441"
+     y="-14.11974"
+     rx="10"
+     ry="10" />
+  <g
+     id="g4">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.99937;stroke-dasharray:5.99811, 5.99811;stroke-dashoffset:0;stroke-opacity:0.504226"
+       id="rect1"
+       width="250"
+       height="427.07175"
+       x="34.122715"
+       y="32.946072"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="50.595749"
+       y="69.422081"
+       id="text2"><tspan
+         id="tspan2"
+         x="50.595749"
+         y="69.422081"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">遥控器</tspan></text>
+    <g
+       id="g5"
+       transform="translate(-9.1521531,53.436424)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4"
+         width="172.22688"
+         height="79.873337"
+         x="82.369377"
+         y="174.72293"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="89.857506"
+         y="196.35529"
+         id="text4"><tspan
+           id="tspan4"
+           x="89.857506"
+           y="196.35529"
+           style="font-size:20px">AppController</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="85.697433"
+         y="232.13188"
+         id="text5"
+         transform="translate(9.1521531,-1.6640278)"><tspan
+           id="tspan5"
+           x="85.697433"
+           y="232.13188"
+           style="font-size:18px">初始化、事件总线</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(-9.1521531,-81.877794)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6"
+         width="172.22688"
+         height="79.873337"
+         x="82.369377"
+         y="174.72293"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="89.857506"
+         y="196.35529"
+         id="text6"><tspan
+           id="tspan6"
+           x="89.857506"
+           y="196.35529"
+           style="font-size:20px">InputController</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="88.193474"
+         y="222.14772"
+         id="text7"><tspan
+           id="tspan7"
+           x="88.193474"
+           y="222.14772"
+           style="font-size:18px">初始化 ADC 和 GPIO</tspan><tspan
+           x="88.193474"
+           y="246.35997"
+           style="font-size:18px"
+           id="tspan24">读取摇杆位置</tspan></text>
+    </g>
+    <g
+       id="g9"
+       transform="translate(-9.1521531,183.45573)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7"
+         width="172.22688"
+         height="79.873337"
+         x="82.369377"
+         y="174.72293"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="89.857506"
+         y="196.35529"
+         id="text8"><tspan
+           id="tspan8"
+           x="89.857506"
+           y="196.35529"
+           style="font-size:20px">WifiController</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="93.185562"
+         y="223.81174"
+         id="text9"><tspan
+           id="tspan9"
+           x="93.185562"
+           y="223.81174"
+           style="font-size:18px">初始化 ESP-NOW</tspan><tspan
+           x="93.185562"
+           y="248.02399"
+           id="tspan25"
+           style="font-size:18px">发送数据</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#2700ff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 152.37558,310.04605 v 47.65414"
+       id="path11" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#1b00ff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 153.55222,174.14351 0.58832,51.7724"
+       id="path10" />
+  </g>
+  <g
+     id="g18"
+     transform="translate(283.57153)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.99937;stroke-dasharray:5.99811, 5.99811;stroke-dashoffset:0;stroke-opacity:0.504226"
+       id="rect11"
+       width="250"
+       height="427.07175"
+       x="34.122715"
+       y="32.946072"
+       rx="10"
+       ry="10" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="50.595749"
+       y="69.422081"
+       id="text11"><tspan
+         id="tspan11"
+         x="50.595749"
+         y="69.422081"
+         style="font-size:28px;fill:#000000;fill-opacity:1;stroke:none">车</tspan></text>
+    <g
+       id="g13"
+       transform="translate(-9.1521531,53.436424)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect12"
+         width="172.22688"
+         height="79.873337"
+         x="82.369377"
+         y="174.72293"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="89.857506"
+         y="196.35529"
+         id="text12"><tspan
+           id="tspan12"
+           x="89.857506"
+           y="196.35529"
+           style="font-size:20px">AppController</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="85.697433"
+         y="232.13188"
+         id="text13"
+         transform="translate(9.1521531,-1.6640278)"><tspan
+           id="tspan13"
+           x="85.697433"
+           y="232.13188"
+           style="font-size:18px">初始化、事件总线</tspan></text>
+    </g>
+    <g
+       id="g15"
+       transform="translate(-9.1521531,-81.877794)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect13"
+         width="172.22688"
+         height="79.873337"
+         x="82.369377"
+         y="174.72293"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="89.857506"
+         y="196.35529"
+         id="text14"><tspan
+           id="tspan14"
+           x="89.857506"
+           y="196.35529"
+           style="font-size:20px">MotorController</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="85.697433"
+         y="232.13188"
+         id="text15"
+         transform="translate(9.1521531,-1.6640278)"><tspan
+           id="tspan15"
+           x="85.697433"
+           y="232.13188"
+           style="font-size:18px">控制电机和舵机</tspan></text>
+    </g>
+    <g
+       id="g17"
+       transform="translate(-9.1521531,183.45573)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15"
+         width="172.22688"
+         height="79.873337"
+         x="82.369377"
+         y="174.72293"
+         rx="3"
+         ry="3" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="89.857506"
+         y="196.35529"
+         id="text16"><tspan
+           id="tspan16"
+           x="89.857506"
+           y="196.35529"
+           style="font-size:20px">WifiController</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="92.353546"
+         y="222.14772"
+         id="text17"><tspan
+           id="tspan17"
+           x="92.353546"
+           y="222.14772"
+           style="font-size:18px">初始化 ESP-NOW</tspan><tspan
+           x="92.353546"
+           y="246.35997"
+           style="font-size:18px"
+           id="tspan26">接收数据</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 152.37558,310.04605 v 47.65414"
+       id="path17" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 153.55222,174.14351 0.58832,51.7724"
+       id="path18" />
+  </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 424.3271,185.5391 12.48021,-10.81618 13.31222,10.81618"
+     id="path19" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 420.58304,321.98939 14.97625,-12.0642 16.22427,11.64819"
+     id="path20" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#1b00ff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 142.96241,211.79617 10.58981,15.29639 11.76645,-15.88472"
+     id="path21" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#1b00ff;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 140.0208,344.16877 12.35478,12.35478 14.70806,-13.53142"
+     id="path22" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#00ff19;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 247.09553,396.52949 H 355.3469"
+     id="path23" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#00ff19;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 344.75709,384.17471 11.76646,12.9431 -11.76646,10.00149"
+     id="path24" />
+</svg>

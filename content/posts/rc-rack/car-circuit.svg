@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="400"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2"
+     id="rect12"
+     width="619.36127"
+     height="426.46451"
+     x="-10.458258"
+     y="-13.944344"
+     rx="10"
+     ry="10" />
+  <g
+     id="g21"
+     transform="translate(-74.369834,55.777376)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:8, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1"
+       width="122.07855"
+       height="67.397667"
+       x="97.610405"
+       y="255.6463"
+       rx="5"
+       ry="5" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       id="rect2"
+       width="30"
+       height="5"
+       x="117.07439"
+       y="273.94827" />
+    <rect
+       style="fill:#00ff14;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       id="rect3"
+       width="30"
+       height="5"
+       x="117.36489"
+       y="299.22238" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="162.103"
+       y="283.535"
+       id="text3"><tspan
+         id="tspan3"
+         x="162.103"
+         y="283.535">电源</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#f0e700;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="162.68401"
+       y="308.22812"
+       id="text4"><tspan
+         id="tspan4"
+         x="162.68401"
+         y="308.22812"
+         style="fill:#000000;fill-opacity:1">信号</tspan></text>
+  </g>
+  <g
+     id="g11"
+     transform="translate(-1.1620287,-38.346946)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect4"
+       width="90.638237"
+       height="48.805202"
+       x="58.101425"
+       y="60.425495"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="74.950844"
+       y="90.05722"
+       id="text11"><tspan
+         id="tspan11"
+         x="74.950844"
+         y="90.05722">电池组</tspan></text>
+  </g>
+  <g
+     id="g12"
+     transform="translate(-18.592459,5.8101434)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect5"
+       width="122.01302"
+       height="44.157085"
+       x="63.911591"
+       y="161.522"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="70.883751"
+       y="189.41069"
+       id="text12"><tspan
+         id="tspan12"
+         x="70.883751"
+         y="189.41069">12V 稳压模块</tspan></text>
+  </g>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+     id="rect6"
+     width="118.52692"
+     height="62.749546"
+     x="367.20102"
+     y="194.05879"
+     rx="3"
+     ry="3" />
+  <g
+     id="g13"
+     transform="translate(91.800264,-1.1620287)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect9"
+       width="73.207802"
+       height="72.045776"
+       x="240.53993"
+       y="83.666061"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="261.45645"
+       y="124.33707"
+       id="text13"><tspan
+         id="tspan13"
+         x="261.45645"
+         y="124.33707">H桥</tspan></text>
+  </g>
+  <g
+     id="g14"
+     transform="translate(63.911577,-10.458258)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect8"
+       width="113.87881"
+       height="48.805206"
+       x="395.08975"
+       y="97.61039"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="435.76074"
+       y="130.14722"
+       id="text14"><tspan
+         id="tspan14"
+         x="435.76074"
+         y="130.14722">电机</tspan></text>
+  </g>
+  <g
+     id="g15">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect11"
+       width="105.7446"
+       height="31.374769"
+       x="216.13734"
+       y="212.65125"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="220.78543"
+       y="234.72978"
+       id="text15"><tspan
+         id="tspan15"
+         x="220.78543"
+         y="234.72978">5V 稳压模块</tspan></text>
+  </g>
+  <g
+     id="g16">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect10"
+       width="120.85099"
+       height="32.536797"
+       x="212.65125"
+       y="311.42371"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="226.59558"
+       y="334.66425"
+       id="text16"><tspan
+         id="tspan16"
+         x="226.59558"
+         y="334.66425">5V 稳压模块</tspan></text>
+  </g>
+  <g
+     id="g17">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect7"
+       width="98.772438"
+       height="52.29129"
+       x="374.17322"
+       y="298.64136"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+       x="405.548"
+       y="328.85413"
+       id="text17"><tspan
+         id="tspan17"
+         x="405.548"
+         y="328.85413">舵机</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1"
+     x="427.62369"
+     y="220.78545"
+     id="text18"><tspan
+       id="tspan18"
+       x="427.62369"
+       y="220.78545">esp32s3</tspan><tspan
+       x="427.62369"
+       y="244.9977"
+       id="tspan19">开发板</tspan></text>
+  <g
+     id="g20"
+     transform="translate(16.268401)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       id="rect19"
+       width="97.610413"
+       height="44.157085"
+       x="38.346947"
+       y="94.124321"
+       rx="3"
+       ry="3" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-opacity:1"
+       x="61.587521"
+       y="120.85098"
+       id="text20"><tspan
+         id="tspan20"
+         x="61.587521"
+         y="120.85098"
+         style="fill:#000000;fill-opacity:1;stroke:none">保护板</tspan></text>
+  </g>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="M 98.772436,70.302734 99.35345,94.705336"
+     id="path21" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="m 98.191422,136.53837 0.581014,30.79376"
+     id="path22" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="m 169.07517,209.16516 44.15709,24.98362"
+     id="path23" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="M 133.05228,213.23226 210.9082,319.55788"
+     id="path24" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="m 334.66425,327.69208 37.76594,-0.58101"
+     id="path25" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="m 322.46295,225.43356 h 45.90014"
+     id="path26" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="m 167.91314,170.81821 162.103,-27.30767"
+     id="path27" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-opacity:1"
+     d="m 405.548,115.04084 53.45332,1.74304"
+     id="path28" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#00ff0e;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 381.25876,194.1215 -4.1084,-40.46765"
+     id="path29" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#00ff0e;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 406.73078,256.36364 0.82168,41.08392"
+     id="path30" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#00ff0e;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 400.36277,287.382 7.60053,10.88724 6.36801,-10.88724"
+     id="path31" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#00ff0e;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 370.98778,163.51399 6.368,-8.83304 8.01137,7.80594"
+     id="path32" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 92.090771,86.280628 6.972172,8.1342 6.681667,-8.1342"
+     id="path33" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 91.509757,158.90742 7.262679,9.00572 7.553184,-8.42471"
+     id="path34" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 200.88571,319.84839 h 9.73198 l 1e-5,-10.16775"
+     id="path35" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 209.64044,224.08071 3.30131,10.64908 -8.13723,4.37523"
+     id="path36" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 366.91055,320.71991 6.10065,6.97217 -6.68167,6.68167"
+     id="path37" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 360.51939,217.00885 6.39116,8.1342 -6.68166,7.26268"
+     id="path38" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 325.07752,136.82887 5.22913,6.10066 -4.64812,7.26267"
+     id="path39" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:1.99937;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 453.77219,108.94019 4.35761,7.55318 -5.22913,6.97218"
+     id="path40" />
+</svg>
