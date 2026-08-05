@@ -6,8 +6,13 @@ disableAliases: true
 disableKinds: ["rss", "robotstxt", "404"]
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
+
+capitalizeListTitles: false
 
 menus:
   main:
