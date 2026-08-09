@@ -3,6 +3,7 @@ title: "DIY 写字机"
 summary: "用 3D 打印的零件和 FluidNC ，做一台 CoreXY 的写字机"
 date: "2026-08-05"
 tags: ["3D打印", "esp32"]
+images: ["img/photo/plotter-v2.webp"]
 ---
 
 自从我买了 3D 打印机之后，就十分好奇 [CoreXY](https://en.wikipedia.org/wiki/CoreXY) 结构，于是我打算 DIY 一个 CoreXY 平台。机床什么的是做不出来了，我就做了写字机 (Pen plotter) 。

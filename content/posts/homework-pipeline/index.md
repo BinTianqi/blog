@@ -3,6 +3,7 @@ title: "打造我的“作业管线”"
 summary: "做了一个 AI 驱动的作业管线，基于本地部署的 PaddleOCR-VL 和 Qwen3.6"
 date: "2026-07-20"
 tags: []
+images: ["web-ui-images.webp"]
 ---
 
 ## 前情提要

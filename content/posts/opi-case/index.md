@@ -3,6 +3,7 @@ title: "3D打印上手"
 summary: "纵维立方 S1C 开箱，给 Orange Pi Zero 3 设计一个外壳，然后打印。"
 date: "2026-07-14"
 tags: ["3D打印"]
+images: ["opi-in-case.webp"]
 ---
 
 暑假，我要 DIY 很多东西，于是我买了一台 3D 打印机——纵维立方 S1C ，并自己设计了一个香橙派 Zero 3 的外壳，然后打印。
