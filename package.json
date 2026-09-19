@@ -1,0 +1,7 @@
+{
+  "name": "bintianqi-blog",
+  "scripts": {},
+  "devDependencies": {
+    "wrangler": "^4.135.0"
+  }
+}

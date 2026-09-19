@@ -7,10 +7,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 'latest'
+      - run: npm install
       - uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
       - run: hugo
+      - name: Deploy
+        run: npx wrangler pages deploy ./build --project-name bintianqi-blog
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
       - uses: actions/upload-artifact@v7
         with:
           name: dist
