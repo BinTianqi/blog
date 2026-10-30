@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "css-minify": "deno run --allow-read --allow-write css-minify.ts",
+    "deploy": "deno run npm:wrangler pages deploy ./build --project-name bintianqi-blog"
+  },
+  "imports": {
+    "lightningcss": "npm:lightningcss-wasm@^1.33.0",
+    "wrangler": "npm:wrangler@4.152.0"
+  }
+}

@@ -2,7 +2,7 @@
   {{- if eq hugo.Environment "development" }}
     <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{- else }}
-    {{- with . | minify | fingerprint }}
+    {{- with . | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{- end }}
   {{- end }}
@@ -11,7 +11,7 @@
   {{- if eq hugo.Environment "development" }}
     <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{- else }}
-    {{- with . | minify | fingerprint }}
+    {{- with . | fingerprint }}
       <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
     {{- end }}
   {{- end }}
@@ -22,7 +22,7 @@
     {{- if eq hugo.Environment "development" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{- else }}
-      {{- with . | minify | fingerprint }}
+      {{- with . | fingerprint }}
         <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
       {{- end }}
     {{- end }}
@@ -31,7 +31,7 @@
     {{- if eq hugo.Environment "development" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{- else }}
-      {{- with . | minify | fingerprint }}
+      {{- with . | fingerprint }}
         <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
       {{- end }}
     {{- end }}
@@ -41,7 +41,7 @@
     {{- if eq hugo.Environment "development" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{- else }}
-      {{- with . | minify | fingerprint }}
+      {{- with . | fingerprint }}
         <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
       {{- end }}
     {{- end }}
