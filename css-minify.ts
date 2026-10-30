@@ -1,6 +1,6 @@
 /**
  * It seems that nested CSS selectors don't work on older browsers.
- * Lightning CSS not only minifies the codes ,but also adds compability
+ * Lightning CSS not only minifies the codes, but also adds compability.
  */
 
 import { transform } from "lightningcss"

@@ -2,9 +2,6 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages.ByDate.Reverse }}
-    <div class="post">
-      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-      <p>{{ .Summary | transform.Plainify }}</p>
-    </div>
+    {{ partial "post-entry.html" . }}
   {{ end }}
 {{ end }}

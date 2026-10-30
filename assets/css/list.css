@@ -1,13 +1,35 @@
 main {
     max-width: 600px;
-    div.post {
+
+    div.post-entry {
         background-color: var(--md-sys-color-surface-container);
         padding: 10px;
         border-radius: 12px;
-        margin: 10px 0;
+        margin: 12px 0;
+
         h2 {
             margin: 0;
+
+            a {
+                text-decoration: none;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
         }
+
+        div.date {
+            display: flex;
+            align-items: center;
+            margin-top: 4px;
+
+            svg {
+                margin-right: 4px;
+                fill: var(--md-sys-color-on-surface-variant);
+            }
+        }
+
         p {
             margin: 10px 0 4px 0;
         }

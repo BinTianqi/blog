@@ -3,9 +3,7 @@
 
 {{- with index site.Menus $menuID }}
   <nav>
-    <ul>
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-    </ul>
   </nav>
 {{- end }}
 
@@ -24,7 +22,6 @@
         {{- $name = . }}
       {{- end }}
     {{- end }}
-    <li>
       <a
         {{- range $k, $v := $attrs }}
           {{- with $v }}
@@ -33,10 +30,7 @@
         {{- end -}}
       >{{ $name }}</a>
       {{- with .Children }}
-        <ul>
           {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
-        </ul>
       {{- end }}
-    </li>
   {{- end }}
 {{- end }}

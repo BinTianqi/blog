@@ -83,8 +83,8 @@ h2, h3, h4 {
 p {
     > code {
         background-color: var(--md-sys-color-surface-variant);
-        padding: 3px;
+        padding: 3px 4px;
         margin: 0 1px;
-        border-radius: 2px;
+        border-radius: 3px;
     }
 }
