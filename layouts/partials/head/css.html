@@ -1,49 +1,19 @@
 {{- with resources.Get "css/main.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
 {{- end }}
 {{- with resources.Get "css/m3.css" }}
-  {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
-  {{- else }}
-    {{- with . | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-    {{- end }}
-  {{- end }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
 {{- end }}
 
 {{- if .Page.IsPage }}
   {{- with resources.Get "css/single.css" }}
-    {{- if eq hugo.Environment "development" }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}">
-    {{- else }}
-      {{- with . | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-      {{- end }}
-    {{- end }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{- end }}
   {{- with resources.Get "css/highlight.css" }}
-    {{- if eq hugo.Environment "development" }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}">
-    {{- else }}
-      {{- with . | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-      {{- end }}
-    {{- end }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{- end }}
 {{- else }}
   {{- with resources.Get "css/list.css" }}
-    {{- if eq hugo.Environment "development" }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}">
-    {{- else }}
-      {{- with . | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
-      {{- end }}
-    {{- end }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
   {{- end }}
 {{- end }}
